@@ -1,7 +1,0 @@
-streamlit
-pymorphy3
-pymorphy3-dicts-ru
-nltk
-scikit-learn
-pandas
-openpyxl
