@@ -1,0 +1,10 @@
+streamlit
+pymorphy3
+pymorphy3-dicts-ru
+nltk
+scikit-learn
+pandas
+openpyxl
+langchain-core
+langchain-huggingface
+huggingface_hub
